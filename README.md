@@ -1,3 +1,7 @@
+# Reason for repo
+
+Just playing to see whether we can find a WYSIWIG editor that would allow others to alter the HeatHack Guide Book.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

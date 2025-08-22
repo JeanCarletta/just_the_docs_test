@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: HeatHack Guide Book - Test version
+email: info@heathack.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  JeanCarletta
+logo: "/assets/images/heathack_logo.png"
+favicon_ico: "/assets/images/heathack_favicon.png"
 theme: just-the-docs
 
 url: https://jeancarletta.github.io/just_the_docs_test
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
